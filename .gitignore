@@ -1,0 +1,11 @@
+# Ignore data files
+*.txt
+*.csv
+
+# Ignore Python environment and sensitive info
+__pycache__/
+.env
+venv/
+
+# Ignore OS files
+.DS_Store
